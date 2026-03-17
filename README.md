@@ -84,7 +84,7 @@ The project includes an interactive Streamlit app:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 ## 🧪 Tech Stack
 
