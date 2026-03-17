@@ -85,6 +85,7 @@ The project includes an interactive Streamlit app:
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 ## 🧪 Tech Stack
 
 - **Programming Language:** Python  
@@ -93,8 +94,9 @@ streamlit run app.py
 - **Transformers Library:** Hugging Face Transformers  
 - **Data Handling:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
-- **Web App:** Streamlit  
+- **Web App:** Streamlit
 
+---
 ## 🎯 Conclusion
 
 This project demonstrates the effectiveness of different deep learning architectures for financial sentiment analysis.
@@ -108,6 +110,7 @@ Key takeaways:
 
 Overall, the project highlights the importance of model selection and shows how modern NLP techniques can significantly enhance performance in real-world applications.
 
+---
 ## 👤 Author
 
 **Jyoti Bhardwaj**
